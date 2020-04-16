@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/splash_base" />
+
+    <item
+        android:gravity="center"
+        android:width="120dp"
+        android:height="120dp"
+        >
+        <bitmap android:src="@drawable/icon"  />
+        <!--        <bitmap />-->
+    </item>
+    <!--    <item-->
+    <!--        android:gravity="bottom"-->
+    <!--        android:width="70dp"-->
+    <!--        android:height="70dp">-->
+    <!--        <ProgressBar-->
+    <!--            android:id="@+id/progressBar"-->
+    <!--            style="?android:attr/progressBarStyle"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content" />-->
+    <!--    </item>-->
+
+</layer-list>

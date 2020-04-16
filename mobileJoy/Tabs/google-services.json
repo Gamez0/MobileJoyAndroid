@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243104575971",
+    "firebase_url": "https://mobilejoy-dfb79.firebaseio.com",
+    "project_id": "mobilejoy-dfb79",
+    "storage_bucket": "mobilejoy-dfb79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243104575971:android:8ed1ca9889502601e170d6",
+        "android_client_info": {
+          "package_name": "com.praylist.mobileJoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243104575971-61i338vkrghqrj17b1pb38g0l9j8ur72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praylist.mobileJoy",
+            "certificate_hash": "6e242b60e653f5cbe482fad8e9f679ee8ad2263d"
+          }
+        },
+        {
+          "client_id": "243104575971-vncrpp8lrpv32lbui0nohgsj5jv4n7gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4GzCKcL-xCozCgCYM9ehNMzMzWMU4DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243104575971-vncrpp8lrpv32lbui0nohgsj5jv4n7gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

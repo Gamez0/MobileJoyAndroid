@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93786722629",
+    "firebase_url": "https://mobilejoy-cd80b.firebaseio.com",
+    "project_id": "mobilejoy-cd80b",
+    "storage_bucket": "mobilejoy-cd80b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93786722629:android:bc7562155d2f4eae4e6e2c",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.tabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93786722629-ndpvv3m887ntn970el8lvfq9usoc53nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvacstudio.tabs",
+            "certificate_hash": "6e242b60e653f5cbe482fad8e9f679ee8ad2263d"
+          }
+        },
+        {
+          "client_id": "93786722629-2p5vv3hc14fgg03q4pfvknldr4hjnq0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlch5-skICO2YixsJHfgck1YhJW4RrQpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93786722629-2p5vv3hc14fgg03q4pfvknldr4hjnq0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

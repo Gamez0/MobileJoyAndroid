@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.BibleFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/BibleTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bibleTitle"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_margin="8dp"
+            android:padding="4dp"
+            android:background="@drawable/border"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:id="@+id/BibleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:fontFamily="@font/poetandme"
+            android:lineSpacingExtra="8sp"
+            android:text="@string/bibleText" />
+    </LinearLayout>
+
+    </ScrollView>
+</FrameLayout>
